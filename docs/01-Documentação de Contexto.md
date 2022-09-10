@@ -25,7 +25,7 @@ Permitir ao usuário o cadastro de dados dos seus clientes, tornando também pos
 
 ## Justificativa
 
-DO coronavírus trouxe impactos significativos para a economia mundial e consequentemente o trabalhador autônomo se encontra impossibilitado de realizar suas atividades e perdendo assim suas fontes de renda. Muitas dessas dificuldades e problemas ainda não foram completamente extinguidos, manter suas contas, cartões em dia e ainda, colocar comida na mesa de casa são umas das consequências negativas. E ainda temos uma grande parcela de pessoas que se deparam com a realidade de empreender e prestar serviços sem conhecimento prévio para gerir de maneira eficaz seu negócio.
+Do coronavírus trouxe impactos significativos para a economia mundial e consequentemente o trabalhador autônomo se encontra impossibilitado de realizar suas atividades e perdendo assim suas fontes de renda. Muitas dessas dificuldades e problemas ainda não foram completamente extinguidos, manter suas contas, cartões em dia e ainda, colocar comida na mesa de casa são umas das consequências negativas. E ainda temos uma grande parcela de pessoas que se deparam com a realidade de empreender e prestar serviços sem conhecimento prévio para gerir de maneira eficaz seu negócio.
 
 
 ## Público Alvo -
