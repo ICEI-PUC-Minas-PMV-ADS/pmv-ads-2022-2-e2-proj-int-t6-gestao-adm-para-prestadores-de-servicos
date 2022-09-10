@@ -7,13 +7,13 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 Baseadas em dados sobre comportamentos e características dos clientes, as personas são representações fictícias do público-alvo de um negócio. Assim, são personagens criados para simular um cliente ideal.
 
 
-![Argemiro]([https://user-images.githubusercontent.com/100173177/163076031-b4b31c69-eefa-4201-8a1d-887f54b18379.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/17f3917e4dc80c9716eabad914678da1c1503514/Argemiro%20Eustaquio.png))
+![Argemiro](https://user-images.githubusercontent.com/100173177/163076031-b4b31c69-eefa-4201-8a1d-887f54b18379.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/17f3917e4dc80c9716eabad914678da1c1503514/Argemiro%20Eustaquio.png)
 
-![Maria]([https://user-images.githubusercontent.com/100173177/163076057-24bfbf78-0591-42a3-92bb-25c19950f372.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/17f3917e4dc80c9716eabad914678da1c1503514/Maria%20Geraldina.png))
+![Maria](https://user-images.githubusercontent.com/100173177/163076057-24bfbf78-0591-42a3-92bb-25c19950f372.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/17f3917e4dc80c9716eabad914678da1c1503514/Maria%20Geraldina.png)
 
-![Philipe]([https://user-images.githubusercontent.com/100173177/163076064-45c78930-e31f-4326-b021-7f80019c4cc4.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f274088909152bf1e5075370f1a9d1acc3363941/IMG/PHILLIPE%20JUNIOR.png))
+![Philipe](https://user-images.githubusercontent.com/100173177/163076064-45c78930-e31f-4326-b021-7f80019c4cc4.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f274088909152bf1e5075370f1a9d1acc3363941/IMG/PHILLIPE%20JUNIOR.png)
 
-![Patricia]([https://user-images.githubusercontent.com/100173177/163076069-d2d43410-16d1-4624-8d9a-1a3f7d5b7cc9.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/c0a019ac0e4a545aca6f40b4ab6313ab7a67e011/IMG/Patricia%20Souza.png))
+![Patricia](https://user-images.githubusercontent.com/100173177/163076069-d2d43410-16d1-4624-8d9a-1a3f7d5b7cc9.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/c0a019ac0e4a545aca6f40b4ab6313ab7a67e011/IMG/Patricia%20Souza.png)
 
 ## Histórias de Usuários
 
