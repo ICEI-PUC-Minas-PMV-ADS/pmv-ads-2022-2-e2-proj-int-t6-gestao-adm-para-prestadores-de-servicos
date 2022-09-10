@@ -31,17 +31,30 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito                                                                                  | Prioridade |
+|------|---------------------------------------------------------------------------------------------------------|------------|
+|RF-001| Gerar contratos automaticamente para os clientes.                                                        | Alta       | 
+|RF-002| Controle de fluxo de pagamentos.                                                                         | Alta       |
+|RF-003| Notificações de atraso para clientes.                                                                    | Média      |
+|RF-004| O site deverá conter um sistema de Divisão de clientes.                                                  | Média      |
+|RF-005| O site deverá conter um sistema de Agenda interativa.                                                    | Alta       |
+|RF-006| O site deverá conter um sistema de Cadastro de Clientes.                                                 | Alta       |
+|RF-007| O site deverá conter um sistema de Aba para pesquisa de clientes.                                        | Baixa      |
+|RF-008| O site deverá conter um sistema de Cadastro e Login do Prestador.                                        | Alta       |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | Média | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  Baixa | 
+|RNF-002| O site deve ser publicado em um ambiente acessível
+publicamente na Internet (Repl.it, GitHub Pages, Heroku)
+ |  Alta |
+|RNF-002| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |  Média |
+|RNF-002| OO site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  Média |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
