@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Análise e Projeto de Sistemas de Software`
 
-`SEMESTRE`
+`EIXO 2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto que está sendo desenvolvido consiste em um site focado em prestadores de serviços contendo ferramentas de uso intuitivo que permitam ao usuário organizar de maneira simplificada alguns processos gerenciais e administrativos que são de suma importância para a execução de uma empreitada, como a precificação do trabalho, a gestão de tempo e o controle de pagamentos, eliminando assim algumas dificuldades que a maioria destes profissionais encontram no seu dia a dia.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Jefferson Rodrigues Lacerda
+* Leonardo Gonçalves Teles
+* Marco Túlio Félix Santiago
+* Bianca Campos Xavier
+* Ana Carolina do Carmo Vaz
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
