@@ -1,6 +1,13 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Diariamente, a dificuldade organizacional tem se tornado um grande empecilho para o desenvolvimento das microempresas de pessoas autônomas, no qual tem encontrado um grande acúmulo na priorização de especificações administrativas e executáveis. 
+ 
+Ao vivenciar os obstáculos administrativos de uma empresa, o próprio prestador de serviço necessita conciliar suas dificuldades pessoais, que conjuntamente podem interferir no funcionamento e crescimento do seu negócio. 
+ 
+Tendo em vista, os obstáculos a serem vencidos, o autônomo tem pesquisado formas de aprimorar a sua gestão e obter um ajuste em suas áreas profissionais e pessoais através da tecnologia. 
+ 
+Sendo assim, a proposta do site apresentado neste projeto, busca auxiliar as microempresas autônomas na parte contratual/financeira, para que o autônomo consiga evoluir na parte administrável e executável de sua empresa.
+
 
 ## Problema 
  A vida financeira de um autônomo não é nem um pouco fácil! Conciliar os seus problemas pessoais e saber diferenciar eles do seu profissional. Dia após dia, todo novo cliente e dinheiro recebido conta muito na rotina de quem trabalha por conta própria,  é responsável por organizar suas finanças, as demandas de novos clientes e todas as outras decisões que sua área demanda. Prospectar, precificar, vender e agendar atendimentos, tudo isso conciliando os recebimentos,  controlar gastos com material, escritório e ainda realizar cobranças.
