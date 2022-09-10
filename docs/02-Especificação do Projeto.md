@@ -7,7 +7,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 Baseadas em dados sobre comportamentos e características dos clientes, as personas são representações fictícias do público-alvo de um negócio. Assim, são personagens criados para simular um cliente ideal.
 
 
-![Argemiro](https://user-images.githubusercontent.com/100173177/163076031-b4b31c69-eefa-4201-8a1d-887f54b18379.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/17f3917e4dc80c9716eabad914678da1c1503514/Argemiro%20Eustaquio.png)
+![Argemiro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/1e456539631e743a2db8e5648dcf1b978d89403e/IMG/Argemiro%20Eustaquio.png)
 
 ![Maria](https://user-images.githubusercontent.com/100173177/163076057-24bfbf78-0591-42a3-92bb-25c19950f372.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/17f3917e4dc80c9716eabad914678da1c1503514/Maria%20Geraldina.png)
 
