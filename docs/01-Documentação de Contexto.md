@@ -2,14 +2,13 @@
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
-##Problema 
+## Problema 
  A vida financeira de um autônomo não é nem um pouco fácil! Conciliar os seus problemas pessoais e saber diferenciar eles do seu profissional. Dia após dia, todo novo cliente e dinheiro recebido conta muito na rotina de quem trabalha por conta própria,  é responsável por organizar suas finanças, as demandas de novos clientes e todas as outras decisões que sua área demanda. Prospectar, precificar, vender e agendar atendimentos, tudo isso conciliando os recebimentos,  controlar gastos com material, escritório e ainda realizar cobranças.
 
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
-
-##Objetivos 
+Objetivos 
 O objetivo geral deste trabalho é a criação de um site focado em prestadores de serviços que apresente ferramentas de fácil uso que permitam ao usuário através da tecnologia organizar de maneira simplificada alguns processos que também integram e são de suma importância para a execução de uma empreitada, como a precificação do trabalho, a gestão de tempo e o controle de pagamentos, eliminando assim algumas dificuldades que a maioria destes profissionais encontram no seu dia a dia.
 Como objetivos específicos, podemos ressaltar:
 Permitir ao usuário o cadastro de dados dos seus clientes, tornando também possível elencar a eles, contratos, orçamentos e anotações, melhorando assim a gestão tanto destes quesitos quanto dos clientes.
