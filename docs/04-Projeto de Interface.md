@@ -29,7 +29,7 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
  <img src=" https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/8ad61fa288b6d3460c8985a0f92b3279dc1ae805/IMG/Wireframe1.2.jpeg"/>
  
 > **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
+> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/4affcfdd24278d710c75ff48cdc7778fdef8a560/IMG/Wireframe1.2.jpeg)
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 > - [Figma](https://www.figma.com/)
