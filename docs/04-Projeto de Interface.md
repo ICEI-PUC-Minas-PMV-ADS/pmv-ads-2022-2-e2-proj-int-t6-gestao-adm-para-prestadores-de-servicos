@@ -25,19 +25,6 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 ![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/4affcfdd24278d710c75ff48cdc7778fdef8a560/IMG/Wireframe1.2.jpeg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/3b8429f6f61305884609612c303e1ae005aab9ac/IMG/empeasy1.png)
 
 
-![Wireframe2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/3b8429f6f61305884609612c303e1ae005aab9ac/IMG/empeasy2.png)
-
-![Wireframe3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/3b8429f6f61305884609612c303e1ae005aab9ac/IMG/empeasy3.png)
-
-
-![Wireframe4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/3b8429f6f61305884609612c303e1ae005aab9ac/IMG/empeasy4.png)
-
-![wireframe5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/3b8429f6f61305884609612c303e1ae005aab9ac/IMG/empeasy4.png)
-
-![wireframe6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/3b8429f6f61305884609612c303e1ae005aab9ac/IMG/empeasy6.png)
-
-![wireframe7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/3b8429f6f61305884609612c303e1ae005aab9ac/IMG/empeasy7.png)
-
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
  ![Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/4affcfdd24278d710c75ff48cdc7778fdef8a560/IMG/Wireframe1.2.jpeg)
