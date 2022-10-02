@@ -67,4 +67,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de Casos de uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94bf706d44203032e7c406b86d342d595555ae9e/Diagrama%20sem%20nome.drawio.png)
+![Diagrama de Casos de uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/06db58209353ea12503768cb3ff53154d2558558/IMG/DiagramaDeCasoDeUso.jpeg)
