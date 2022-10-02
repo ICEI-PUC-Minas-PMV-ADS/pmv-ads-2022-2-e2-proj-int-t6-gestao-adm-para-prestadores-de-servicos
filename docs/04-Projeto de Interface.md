@@ -19,3 +19,22 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
  ![Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/4affcfdd24278d710c75ff48cdc7778fdef8a560/IMG/Wireframe1.2.jpeg)
 
+![Wireframe2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%202.jpeg)
+
+![Wireframe3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%203.jpeg)
+
+![Wireframe4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%204.jpeg)
+
+![Wireframe5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%205.jpeg)
+
+![Wireframe6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%206.jpeg)
+
+![Wireframe7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%207.jpeg)
+
+![Wireframe8](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%208.jpeg)
+
+![Wireframe9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%209.jpeg)
+
+![Wireframe10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%2010.jpeg)
+
+![Wireframe11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/94c2398439331007a698717db43936d69168d1c2/IMG/wireframes%20empEASY%20conv%2011.jpeg)
