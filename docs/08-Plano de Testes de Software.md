@@ -8,16 +8,21 @@
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
 | Caso de Teste 	| CT-02 – Efetuar login	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
+|Requisito Associado | RF-008	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
 |Critério de Êxito | - O login foi realizado com sucesso. |
 
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+ | **Caso de Teste** 	| **CT-03 – Cadastrar Cliente** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-006 - A aplicação deve apresentar, na página de usuário, a funcionalidade de cadastro de clientes para que o usuário da plataforma consigam cadastrar e gerenciar os dados dos seus clientes. |
+| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar os clientes na aplicação. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site - Realizar o Login - Clicar em "Cadastrar novo cliente" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, endereço) <br> - Clicar em "Cadastrar" |
+|Critério de Êxito | - O cadastro foi realizado com sucesso.  |
+
+| **Caso de Teste** 	| **CT-04 – Gerar Contrato** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-001 - A aplicação deve apresentar, na página de cliente, a funcionalidade de gerar um contrato referente ao serviço que será prestado para o cliente. |
+| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar os clientes na aplicação. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site - Realizar o Login - Entrar na Aba "Clientes" - Selecionar um cliente - Clicar em Gerar Contrato <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, endereço, valor do serviço prestado, tempo de execução do serviço, especificação do trabalho que será realizado) <br> - Clicar em "Gerar contrato" |
+|Critério de Êxito | - O contrato foi realizado com sucesso.  |
