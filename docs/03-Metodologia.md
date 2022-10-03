@@ -44,6 +44,7 @@ A equipe está organizada da seguinte maneira:
 ○ Marco Túlio Félix Santiago
 ○ Leonardo Gonçalves Teles
 ○ Bianca Campos Xavier
+
 ● Equipe de Design
 
 ○ Ana Carolina Carmo Vaz
