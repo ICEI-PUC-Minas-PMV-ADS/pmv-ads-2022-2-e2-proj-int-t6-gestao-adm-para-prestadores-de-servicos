@@ -4,9 +4,12 @@
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos
 ambientes com seu respectivo propósito estão da seguinte maneira:
 
--Repositório de código fonte: Utilizamos o GitHub 
+-Repositório de código fonte: Utilizamos o GitHub
+
 -Documentos do Projeto: Google Drive
+
 -Projeto de Interface e Wireframes: Figma e Canva
+
 -Gerenciamento de Projeto: Kanban
 
 ## Controle de Versão
