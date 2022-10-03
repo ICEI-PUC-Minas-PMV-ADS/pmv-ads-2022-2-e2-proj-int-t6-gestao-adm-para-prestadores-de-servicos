@@ -61,6 +61,7 @@ As ferramentas empregadas no projeto são:
 - Editor de código: Visual Studio Code
 - Ferramentas de comunicação: Microsoft Teams, Whatsapp
 - Ferramentas de desenho de tela (_wireframing_): Figma, Canva
+- Ferramentas de organização: KanbanFlow (Projeto Sprints)
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
