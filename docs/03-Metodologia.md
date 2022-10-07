@@ -58,7 +58,7 @@ A equipe está organizada da seguinte maneira:
 
 ### Processo
 
-![backlog](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/4328f6dba0d8f1b405942eca79a435dc9c5ff627/IMG/backlog.jpeg) 
+![backlog](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/12d50ba4c03ad0c0a4089ee139c92d4847355376/IMG/kanban1.jpeg) 
  
 
 ### Ferramentas
