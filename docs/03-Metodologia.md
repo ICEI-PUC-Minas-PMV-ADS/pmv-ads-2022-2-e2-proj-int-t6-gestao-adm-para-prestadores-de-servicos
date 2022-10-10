@@ -84,7 +84,7 @@ esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
 ### Processo
 
-![backlog](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/12d50ba4c03ad0c0a4089ee139c92d4847355376/IMG/kanban1.jpeg) 
+https://kanbanflow.com/board/mxub4EY
  
 
 ### Ferramentas
