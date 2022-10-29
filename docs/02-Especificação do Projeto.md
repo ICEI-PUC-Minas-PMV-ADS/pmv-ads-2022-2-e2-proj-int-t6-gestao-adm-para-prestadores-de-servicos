@@ -33,27 +33,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito                                                                                  | Prioridade |
 |------|---------------------------------------------------------------------------------------------------------|------------|
-|RF-001| Gerar contratos automaticamente para os clientes.                                                        | Média     | 
-|RF-002| Controle de fluxo de pagamentos.                                                                         | Média     |
-|RF-003| Notificações de atraso para clientes.                                                                    | Média     |
-|RF-004| O site deverá conter um sistema de Divisão de clientes.                                                  | Média     |
-|RF-005| O site deverá conter um sistema de Cadastro de Clientes com informações referente ao serviço prestado.   | Alta      |
-|RF-006| O site deverá conter um sistema de Aba para pesquisa de clientes.                                        | Baixa     |
-|RF-007| O site deverá conter um sistema de  Login do Prestador.                                                  | Alta      |
-|RF-008| O site deverá fornecer um formulário de cadastro para novos usuários.                                    | Alta      |
-|RF-009| O site deve permitir que o usuário adicione, remova e edite seus clientes                                | Alta      |
-|RF-010| O site deve restringir o acesso a área restrita de usuários não permitidos (não logados)                 | Média     |
+|RF-001| O Site deve permitir gerar contratos para os clientes.                                                   | Média     | 
+|RF-002| O site deverá conter um sistema de lista de clientes.                                                    | Média     |
+|RF-003| O site deverá conter um sistema de Cadastro de Clientes com informações referente ao serviço prestado.   | Alta      |
+|RF-004| O site deverá conter um sistema de Aba para pesquisa de clientes.                                        | Baixa     |
+|RF-005| O site deverá conter um sistema de Login e logout do Usuário.                                            | Alta      |
+|RF-006| O site deverá fornecer um formulário de cadastro para novos usuários.                                    | Alta      |
+|RF-007| O site deve permitir que o usuário remova e edite seus clientes.                                         | Alta      |
+|RF-008| O site deve restringir o acesso a área restrita de usuários não permitidos (não logados).                | Média     |
+|RF-009| O Site deve permitir gerar orçamento para os clientes.                                                   | Média     | 
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | Média | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  Baixa | 
+|RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | Média | 
+|RNF-002| O site Deve processar requisições do usuário em no máximo 3s |  Baixa | 
 |RNF-003| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) |  Alta | 
 |RNF-004| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |  Média |
-|RNF-005| OO site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  Média |
+|RNF-005| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  Média |
 
 
 
