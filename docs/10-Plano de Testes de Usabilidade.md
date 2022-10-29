@@ -19,7 +19,7 @@ Os testes de seguirão os planos de acordo com suas classificações:
 
 |Caso de Teste | CT-01 Cadastro de usuários |
 |--------------|-------------------------------------------------------------------------|
-|Requisitos atendidos | RF-008:O site deverá fornecer um formulário de cadastro. |
+|Requisitos atendidos | RF-008:O site deverá fornecer um formulário de cadastro para novos usuários. |
 |Objetivos do Teste   |Verificar o fluxo de cadastro de novos usuários na plataforma por meio de novos cadastros, login de usuários já cadastrados e o seu logout.|
 |Passos               |1: Acesso da plataforma;<br>2: Realizar o cadastro do usuário. |
 |Critérios de êxito   |1: Acesso do usuário a plataforma via login<br>2: Comunicação com o banco de dados de forma estável;<br>3: Validação dos campos do formulário de cadastro<br>|
@@ -28,7 +28,7 @@ Os testes de seguirão os planos de acordo com suas classificações:
 
 |Caso de Teste        |CT-02- Login de usuários     |
 |---------------------|----------------------------------------------------------------|                   
-|Requesitos atendidos |RF - 008:O site deverá fornecer um formulário de cadastro para Pessoa Física Pessoa Jurídica. 
+|Requesitos atendidos | RF-007 O site deverá conter um sistema de  Login do usuário.                                                  
 |Objetivos do Teste   |Verificar o fluxo de acesso dos usuários a plataforma.|
 |Passos               |1: Realizar login com usuário;<br>1:	Acessar a área de usuário; <br>2: Realizar alterações nos dados;<br>3:	Verificar se as alterações foram validadas;<br>4:	Fazer logout;<br>5:	Verificar se o usuário não possui mais acesso a área restrita;<br>6:	Realizar login com usuário ;<br> 7:	Acessar a área de clientes;<br>8: Realizar alterações nos dados docliente; <br>9: Verificar se o usuário não possui mais acesso a área restrita;|
 |Critérios de êxito   |1: Realizar o login e ter acesso a área restrita de usuário;<br>2:	Permitir o acesso e alterações de campos dos usuários validados;<br>3:Restringir o acesso a área restrita de usuários não permitidos (não logados)|
