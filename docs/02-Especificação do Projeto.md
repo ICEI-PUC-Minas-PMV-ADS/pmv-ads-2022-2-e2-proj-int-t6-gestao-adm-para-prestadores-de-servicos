@@ -40,8 +40,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| O site deverá conter um sistema de Login e logout do Usuário.                                            | Alta      |
 |RF-006| O site deverá fornecer um formulário de cadastro para novos usuários.                                    | Alta      |
 |RF-007| O site deve permitir que o usuário remova e edite seus clientes.                                         | Alta      |
-|RF-008| O site deve restringir o acesso a área restrita de usuários não permitidos (não logados).                | Média     |
-|RF-009| O Site deve permitir gerar orçamento para os clientes.                                                   | Média     | 
+|RF-008| O Site deve permitir gerar orçamento para os clientes.                                                   | Média     | 
 
 
 ### Requisitos não Funcionais
