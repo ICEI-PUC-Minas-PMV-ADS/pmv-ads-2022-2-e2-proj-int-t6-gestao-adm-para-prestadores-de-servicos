@@ -33,14 +33,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito                                                                                  | Prioridade |
 |------|---------------------------------------------------------------------------------------------------------|------------|
-|RF-001| Gerar contratos automaticamente para os clientes.                                                        | Alta       | 
-|RF-002| Controle de fluxo de pagamentos.                                                                         | Alta       |
-|RF-003| Notificações de atraso para clientes.                                                                    | Média      |
-|RF-004| O site deverá conter um sistema de Divisão de clientes.                                                  | Média      |
-|RF-005| O site deverá conter um sistema de Agenda interativa.                                                    | Alta       |
-|RF-006| O site deverá conter um sistema de Cadastro de Clientes.                                                 | Alta       |
-|RF-007| O site deverá conter um sistema de Aba para pesquisa de clientes.                                        | Baixa      |
-|RF-008| O site deverá conter um sistema de Cadastro e Login do Prestador.                                        | Alta       |
+|RF-001| Gerar contratos automaticamente para os clientes.                                                        | Média     | 
+|RF-002| Controle de fluxo de pagamentos.                                                                         | Média     |
+|RF-003| Notificações de atraso para clientes.                                                                    | Média     |
+|RF-004| O site deverá conter um sistema de Divisão de clientes.                                                  | Média     |
+|RF-005| O site deverá conter um sistema de Cadastro de Clientes.                                                 | Alta      |
+|RF-006| O site deverá conter um sistema de Aba para pesquisa de clientes.                                        | Baixa     |
+|RF-007| O site deverá conter um sistema de Cadastro e Login do Prestador.                                        | Alta      |
 
 
 ### Requisitos não Funcionais
