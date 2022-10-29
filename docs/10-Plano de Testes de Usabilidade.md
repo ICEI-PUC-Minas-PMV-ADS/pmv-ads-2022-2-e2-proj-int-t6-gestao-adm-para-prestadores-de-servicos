@@ -31,7 +31,7 @@ Os testes de seguirão os planos de acordo com suas classificações:
 |Requesitos atendidos |RF - 008:O site deverá fornecer um formulário de cadastro para Pessoa Física Pessoa Jurídica. 
 |Objetivos do Teste   |Verificar o fluxo de acesso dos usuários a plataforma.|
 |Passos               |1: Realizar login com usuário;<br>1:	Acessar a área de usuário; <br>2: Realizar alterações nos dados;<br>3:	Verificar se as alterações foram validadas;<br>4:	Fazer logout;<br>5:	Verificar se o usuário não possui mais acesso a área restrita;<br>6:	Realizar login com usuário ;<br> 7:	Acessar a área de clientes;<br>8: Realizar alterações nos dados docliente; <br>9: Verificar se o usuário não possui mais acesso a área restrita;|
-|Critérios de êxito   |1: Realizar o login e ter acesso a área restrita de usuário;<br>2:	Permitir o acesso e alterações de campos dos usuários validados;<br>10:Restringir o acesso a área restrita de usuários não permitidos (não logados)|
+|Critérios de êxito   |1: Realizar o login e ter acesso a área restrita de usuário;<br>2:	Permitir o acesso e alterações de campos dos usuários validados;<br>3:Restringir o acesso a área restrita de usuários não permitidos (não logados)|
 
 
 
