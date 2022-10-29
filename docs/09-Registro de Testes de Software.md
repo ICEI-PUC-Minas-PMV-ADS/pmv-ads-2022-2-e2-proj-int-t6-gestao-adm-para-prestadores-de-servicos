@@ -1,12 +1,48 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+O objetivo deste relatório é indicar se a aplicação AutoApp atende aos requisitos previamente propostos e sugerir possíveis pontos de correção, nesta etapa os testes foram efetuados considerando a tela da aplicação 
 
-Para cada caso de teste definido no Plano de Testes de Software, realize o registro das evidências dos testes feitos na aplicação pela equipe, que comprovem que o critério de êxito foi alcançado (ou não!!!). Para isso, utilize uma ferramenta de captura de tela que mostre cada um dos casos de teste definidos (obs.: cada caso de teste deverá possuir um vídeo do tipo _screencast_ para caracterizar uma evidência do referido caso).
+<br> 
+  
+| 1 	| **CT-01 – Cadastrar perfil** 	|
+|:---:	|:---:	|
+|	Requisito	| RF-006 - O sistema deverá permitir a criação de um perfil de usuário para o responsável do veículo associado ao seu e-mail. |
+| Observação | Na página inicial, o site apresenta a funcionalidade de cadastro, este pode ser realizado ao clicar em "Registre-se" e o usuário é direcionado para uma tela para que possa escolher seu Perfil. Após, há o preenchimento de informações cadastrais (e-mail, nome, CPF, por exemplo). As telas estão prontas, com os botões com cliques mas os direcionamentos e vinculos com banco de dados ainda não . |
+| Tela |  <img src= width=20%/>|
 
-## Avaliação
+| 2 	| **CT-02 – Efetuar login** 	|
+|:---:	|:---:	|
+|	Requisito	| RF-005 - O site deverá conter um sistema de Login e logout do Usuário. |
+| Observação | Na página inicial, o site apresenta a funcionalidade de login, este pode ser realizado ao clicar em "Entrar". O usuário é direcionado para uma tela para que possa acessar sua conta. Após, há o preenchimento de informações de login (e-mail, senha). |
+| Tela |  <img src= width=20%/>|
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+| 3 	|  **CT-03 – Cadastrar Cliente** 	|
+|:---:	|:---:	|
+|	Requisito	| RF-003 - O site deverá conter um sistema de Cadastro de Clientes com informações referente ao serviço prestado. |
+| Observação | Na area do usuário, o site apresenta a funcionalidade de cadastrar clientes, este pode ser realizado ao clicar em "Cadastrar novo cliente". O usuário é direcionado para uma tela para que possa cadastrar um novo cliente. Após, há o preenchimento de informações do cliente (nome completo, cpf, serviço a ser prestado etc.). |
+| Tela |  <img src= width=20%/>|
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+| 4 	|  **CT-04 – Editar Cliente** 	 	|
+|:---:	|:---:	|
+|	Requisito	| RF-007	O site deve permitir que o usuário remova e edite seus clientes. |
+| Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Clientes". O usuário é direcionado para uma tela para que possa acessar o cliente a ser editado. Após, há o preenchimento de informações a serem atualizadas do cliente (nome completo, cpf, serviço a ser prestado etc.). |
+| Tela |  <img src= width=20%/>|
+
+| 5 	|  **CT-05 – Remover Cliente**	 	|
+|:---:	|:---:	|
+|	Requisito	| RF-007	O site deve permitir que o usuário remova e edite seus clientes. |
+| Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Clientes". O usuário é direcionado para uma tela para que possa acessar o cliente a ser removido. Após, o cliente receberá uma notificação para confirmação da remoção do cliente. |
+| Tela |  <img src= width=20%/>|
+
+| 5 	|  **CT-06 – Gerar Contrato**	 	|
+|:---:	|:---:	|
+|	Requisito	| RF-001	O Site deve permitir gerar contratos para os clientes. |
+| Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Gerar novo contrato". O usuário é direcionado para uma tela para que possa escolher o cliente para que o contrato seja gerado. Após, há o preenchimento de informações a serem inseridas no contrato do cliente (nome completo, cpf, serviço a ser prestado, tempo de execução do serviço, orçamento etc). |
+| Tela |  <img src= width=20%/>|
+
+| 5 	|  **CT-07 – Gerar orçamento** 		 	|
+|:---:	|:---:	|
+|	Requisito	| RF-008	O Site deve permitir gerar orçamento para os clientes. |
+| Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Gerar novo orçamento". O usuário é direcionado para uma tela para que possa acessar o cliente que deseja gerar o novo orçamento. Após, há o preenchimento de informações a serem inseridas no orçamento (materiais, locomoção, tempo de execução etc.). |
+| Tela |  <img src= width=20%/>|
+
