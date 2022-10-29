@@ -1,43 +1,62 @@
-# Plano de Testes de Software
+# Plano de Testes de Usabilidade
 
-## Plano de testes
+O teste de usabilidade permite avaliar a qualidade da interface com o usuário do aplicativo, utilizando uma avaliação por observação. Por meio dele, são recolhidos dados sobre comportamento medindo e considerando as reações dos usuários diante de diferentes layouts e funcionalidades. Após sua realização, uma análise de usabilidade e das principais dificuldades é efetuada para realizar melhorias no aplicativo, proporcionando uma melhor experiência ao usuário.
 
-Os planos de teste serão realizados de acordo com as funcionalidades e controle de acesso. A realização dos testes apresentará um score cuja classificação é apresentada na tabela abaixo:
+Os modelos de teste que serão aplicados são o de descoberta de problemas e o teste heurístico. Para o primeiro, criaremos contextos de utilização com tarefas que o usuário deve tentar realizar para avaliar se as interfaces relacionadas aos requisitos de alta e média prioridade são funcionais. 
+
+De acordo com Jakob Nielsen (2000), com 5 usuários é possível identificar cerca de 80% dos problemas críticos de uma interface. A partir desse pressuposto, recrutaremos 5 usuários interessados em participar da avaliação. 
+
+Cada usuário será acompanhado, remoto (com uso de microfones ou câmeras) ou presencialmente, por um membro da equipe que irá visualizar e registrar as observações, críticas, sugestões e problemas apontados pelo usuário ou percebidos pelo próprio aplicador. Ainda, os contextos criados farão parte de um roteiro com as ações que os usuários devem testar, sempre lembrando que quem está sendo testada é a usabilidade do sistema e não o usuário.
+
+Ao final, será feito um comparativo dos resultados de cada usuário participante do teste e os encontrados pelos membros da equipe que os acompanharam, para analisar e definir se e quais mudanças serão necessárias para tornar experiência do usuário mais agradável e efetiva.  
+
+Já no teste heurístico, nos basearemos nas 10 heurísticas de Nielsen (NIELSEN,2000), que são princípios de avalição da usabilidade de interfaces com a finalidade de produzir boas interfaces que proporcionem boas experiências de usuário. Os 10 critérios do teste heurístico que aplicaremos são:
+
+| **Caso de Teste** 	| **CTU-01 – Cadastro de novo usuário** 	|
+|:---:	|:---:	|
+| **Perfil** 	| Usuário (todos)	|
+| **Objetivo do Teste** 	| Avaliar a tela de cadastro de novo usuário 	|
+| **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Clicar na opção “Registre-se”;<br> 4. Preencher os campos necessários do formulário;<br>5. Navegar pelo fluxo de cadastro seguindo os passos orientados na tela e clicar em “Registrar". 	|
+|  	|  	|
+| **Caso de Teste** 	| **CTU-02 – Login de usuário** 	|
+| **Perfil** 	| Usuário (todos) 	|
+| **Objetivo do Teste** 	| Avaliar a usabilidade da tela de Login 	|
+| **Ações necessárias** 	| 1. Abrir o site;<br>4. Visualizar a página de login;<br>4. Preencher e-mail no campo indicado;<br>5. Preencher senha no campo indicado;<br>6. Clicar em ‘Login’. 	|
+
+| **Caso de Teste** 	| **CTU-03 – Cadastrar clientes** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar a função de cadastrar novos clientes 	|
+| **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir o campo de “Cadastro de novos clientes”;<br>6. Realizar as alterações desejadas clicando em cima do campo, deletando e adicionando a nova informação;<br>4. Clicar em salvar 	|
+
+| **Caso de Teste** 	| **CTU-03 – acessar lista de clientes** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar a função da lista de cliente	|
+| **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes.   |
+
+| **Caso de Teste** 	| **CTU-03 – Editar clientes** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
+| **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar o cliente à ser removido;<br>3. Clicar em salvar as alterações.   | 
+
+| **Caso de Teste** 	| **CTU-03 – Gerar Orçamento** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
+| **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar a opção de gerar orçamento;<br>3. Preencher o formulário conforme solicitado;<br>4.Clicar em gerar o contrato para o cliente solicitado.   | 
+
+| **Caso de Teste** 	| **CTU-03 – Gerar contrato** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
+| **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar a opção de gerar contratos;<br>3. preencher as informações necessárias;<br>4.Clicar em gerar o contrato para o cliente desejado.   | 
 
 
-### A. Testes de controle de acesso:
+## Análise do teste e resultados
 
+A análise do resultado do teste de usabilidade à distância deve ser igual ao de um teste presencial, para registro será utilizada uma planilha conforme exemplo abaixo:
 
-|Score|Ação                           |Exemplo                                                                                                   |
-|-----|-------------------------------|----------------------------------------------------------------------------------------------------------|
-|0	   |A ação testada apresentou problemas críticos que inviabilizam a plataforma.|A plataforma apresenta um _looping_ infinito no cadastro de novos dados.|
-|1    |A ação testada apresentou problemas graves que podem gerar problemas a plataforma.|A plataforma apresenta um tempo muito grande para realizar busca em um banco de dados.|
-|2    |A ação testada problemas leves que possui uma probabilidade baixa de apresentar danos a plataforma|O usuário não faz o login automático ao realizar o cadastro.|
-|3    |A ação testada não apresentou erros aparentes|-|
-
-Os testes de seguirão os planos de acordo com suas classificações:
-
-|Caso de Teste | CT-01 Cadastro de usuários |
-|--------------|-------------------------------------------------------------------------|
-|Requisitos atendidos | RF-008:O site deverá fornecer um formulário de cadastro para novos usuários. |
-|Objetivos do Teste   |Verificar o fluxo de cadastro de novos usuários na plataforma por meio de novos cadastros, login de usuários já cadastrados e o seu logout.|
-|Passos               |1: Acesso da plataforma;<br>2: Realizar o cadastro do usuário. |
-|Critérios de êxito   |1: Acesso do usuário a plataforma via login<br>2: Comunicação com o banco de dados de forma estável;<br>3: Validação dos campos do formulário de cadastro<br>|
-
-
-
-|Caso de Teste        |CT-02- Login de usuários     |
-|---------------------|----------------------------------------------------------------|                   
-|Requesitos atendidos | RF-007 O site deverá conter um sistema de  Login do usuário.                                                  
-|Objetivos do Teste   |Verificar o fluxo de acesso dos usuários a plataforma.|
-|Passos               |1: Realizar login com usuário;<br>1:	Acessar a área de usuário; <br>2: Realizar alterações nos dados;<br>3:	Verificar se as alterações foram validadas;<br>4:	Fazer logout;<br>5:	Verificar se o usuário não possui mais acesso a área restrita;<br>6:	Realizar login com usuário ;<br> 7:	Acessar a área de clientes;<br>8: Realizar alterações nos dados docliente; <br>9: Verificar se o usuário não possui mais acesso a área restrita;|
-|Critérios de êxito   |1: Realizar o login e ter acesso a área restrita de usuário;<br>2:	Permitir o acesso e alterações de campos dos usuários validados;<br>3:Restringir o acesso a área restrita de usuários não permitidos (não logados)|
-
-
-
-|Caso de Teste        |CT-03- Cadastro de novos usuários na plataforma|
-|---------------------|----------------------------------------------------------------|
-|Requesitos atendidos |RF-005 O site deverá conter um sistema de Cadastro de Clientes, com informações referente ao serviço prestado.  
-|Objetivos do Teste   |Verificar o fluxo de cadastro de novos usuários na plataforma por meio de novos cadastros, edição de usuários já cadastrados e sua remoção. 
-|Passos               |1: Acesso da plataforma;<br>2: Realizar o cadastro do usuário; relizar a remoção do usuário cadastrado;
-|Critérios de êxito   |1: Acesso do usuário a plataforma via login<br>2: Comunicação com o banco de dados de forma estável;<br>3: Validação dos campos do  cadastro<br>|
+| **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
+| --- 	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 1	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 2 | --- 	| --- | ---  | --- | --- | --- |
+| Usuário 3	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 4	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 5	| --- 	| --- | ---  | --- | --- | --- |
