@@ -37,9 +37,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Controle de fluxo de pagamentos.                                                                         | Média     |
 |RF-003| Notificações de atraso para clientes.                                                                    | Média     |
 |RF-004| O site deverá conter um sistema de Divisão de clientes.                                                  | Média     |
-|RF-005| O site deverá conter um sistema de Cadastro de Clientes.                                                 | Alta      |
+|RF-005| O site deverá conter um sistema de Cadastro de Clientes com informações referente ao serviço prestado.   | Alta      |
 |RF-006| O site deverá conter um sistema de Aba para pesquisa de clientes.                                        | Baixa     |
-|RF-007| O site deverá conter um sistema de Cadastro e Login do Prestador.                                        | Alta      |
+|RF-007| O site deverá conter um sistema de  Login do Prestador.                                                  | Alta      |
+|RF-008| O site deverá fornecer um formulário de cadastro para novos usuários.                                    | Alta      |
+|RF-009| O site deve permitir que o usuário adicione, remova e edite seus clientes                                | Alta      |
+|RF-010| O site deve restringir o acesso a área restrita de usuários não permitidos (não logados)                 | Média     |
 
 
 ### Requisitos não Funcionais
