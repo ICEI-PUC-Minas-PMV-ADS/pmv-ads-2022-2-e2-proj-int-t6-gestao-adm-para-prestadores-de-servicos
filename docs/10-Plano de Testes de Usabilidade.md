@@ -22,32 +22,32 @@ Já no teste heurístico, nos basearemos nas 10 heurísticas de Nielsen (NIELSEN
 | **Perfil** 	| Usuário (todos) 	|
 | **Objetivo do Teste** 	| Avaliar a usabilidade da tela de Login 	|
 | **Ações necessárias** 	| 1. Abrir o site;<br>4. Visualizar a página de login;<br>4. Preencher e-mail no campo indicado;<br>5. Preencher senha no campo indicado;<br>6. Clicar em ‘Login’. 	|
-
+|   |   |
 | **Caso de Teste** 	| **CTU-03 – Cadastrar clientes** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a função de cadastrar novos clientes 	|
 | **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir o campo de “Cadastro de novos clientes”;<br>6. Realizar as alterações desejadas clicando em cima do campo, deletando e adicionando a nova informação;<br>4. Clicar em salvar 	|
-
+|   |   |
 | **Caso de Teste** 	| **CTU-04 – acessar lista de clientes** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a função da lista de cliente	|
 | **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes.   |
-
+|   |   |
 | **Caso de Teste** 	| **CTU-05 – Editar clientes** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
 | **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar o cliente à ser removido;<br>3. Clicar em salvar as alterações.   | 
-
+|   |   |
 | **Caso de Teste** 	| **CTU-06 – Gerar Orçamento** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
 | **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar a opção de gerar orçamento;<br>3. Preencher o formulário conforme solicitado;<br>4.Clicar em gerar o contrato para o cliente solicitado.   | 
-
+|   |   |
 | **Caso de Teste** 	| **CTU-07 – Gerar contrato** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
 | **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar a opção de gerar contratos;<br>3. preencher as informações necessárias;<br>4.Clicar em gerar o contrato para o cliente desejado.   | 
-
+|   |   |
 
 ## Análise do teste e resultados
 
