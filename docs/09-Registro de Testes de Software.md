@@ -26,7 +26,7 @@ O objetivo deste relatório é indicar se a aplicação AutoApp atende aos requi
 |:---:	|:---:	|
 |	Requisito	| RF-007	O site deve permitir que o usuário remova e edite seus clientes. |
 | Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Clientes". O usuário é direcionado para uma tela para que possa acessar o cliente a ser editado. Após, há o preenchimento de informações a serem atualizadas do cliente (nome completo, cpf, serviço a ser prestado etc.). |
-| Tela |  <img src= width=20%/>|
+| Tela |  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/c9bc6bd69b612d5b9c3c6e9611bfb61a2f533c5c/docs/img/Editar%20clientes.jpg" width=20%/>|
 
 | 5 	|  **CT-05 – Remover Cliente**	 	|
 |:---:	|:---:	|
