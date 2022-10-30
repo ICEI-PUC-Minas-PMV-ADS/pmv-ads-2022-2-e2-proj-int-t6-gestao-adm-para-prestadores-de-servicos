@@ -12,15 +12,18 @@ Nesta tela possuímos os seguintes detalhes:
 
     2- Barra de Navegação: Barra  no topo do site, onde ao clicar no tópico desejado, o site irá encaminhar o usuário para o campo correspondente.
 <br>
+
 Ao inserir as informações e  clicar no botão "Login", será aberto a tela principal do cliente:
 **Tela para login**
 ![TelaLogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
 
 <br>
+
 **Tela Cadastro**
 ![TelaCadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
 
 <br>
+
 **Cadastro de Clientes**
 ![TelaCadatroClientes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
 
