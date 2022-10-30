@@ -38,7 +38,7 @@ O objetivo deste relatório é indicar se a aplicação AutoApp atende aos requi
 |:---:	|:---:	|
 |	Requisito	| RF-001	O Site deve permitir gerar contratos para os clientes. |
 | Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Gerar novo contrato". O usuário é direcionado para uma tela para que possa escolher o cliente para que o contrato seja gerado. Após, há o preenchimento de informações a serem inseridas no contrato do cliente (nome completo, cpf, serviço a ser prestado, tempo de execução do serviço, orçamento etc) As telas estão prontas, com os botões com cliques mas os direcionamentos e vinculos com banco de dados ainda não. |
-| Tela |  <img src= width=20%/> **OBS: EM PROGRESSO** |
+| Tela |  <img src= width=20%/> OBS: **EM PROGRESSO** |
 
 | 5 	|  **CT-07 – Gerar orçamento** 		 	|
 |:---:	|:---:	|
