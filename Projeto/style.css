@@ -192,6 +192,19 @@ body {
     
 
 }
+.continue-button input{
+    width: 100%;
+    margin-top: 2.5rem;
+    border: none;
+    background-color: blueviolet;
+    padding: 1.0rem;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    font-size:80%;
+    
+
+}
 
 .continue-button button:hover {
     background-color: blueviolet;

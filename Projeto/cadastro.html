@@ -57,7 +57,9 @@
                     </div>
             
                 <div class="continue-button">
-                    <button><a href="#">Cadastrar</a> </button>
+                    <input type="button" onclick="funcao1()" value="Cadastrar">
+                   
+                    
                 </div>
             </form>
         </div>
@@ -65,3 +67,17 @@
 </body>
 
 </html>
+<script>
+  
+function funcao1(){
+    var input
+    input = document.getElementsByClassName("input-box")
+    if(input!= null) { 
+        alert("Usuário Cadastrado com sucesso");
+    }
+    else{
+        alert("Preencha todos os campos");
+    }
+    
+}
+</script>

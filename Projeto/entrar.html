@@ -21,14 +21,14 @@
               
                 <div class="input-box">
                     <label for="usuario">Login</label>
-                    <input type="text"name="Senha"placeholder="Digite o login cadastrado">
+                    <input  type="email" id="Usuario" name="Usuario" placeholder= "Digite o login cadastrado">
                 </div>
                 <div class="input-box">
-                    <label for="senha">Senha</label>
-                    <input type="password"name="Senha"placeholder="Digite sua senha">
+                    <label  for="senha">Senha</label>
+                    <input  type="password" id="Senha" name="Senha" placeholder= "Digite sua senha">
                 </div>
                 <div class="continue-button">
-                    <button><a href="#">Entrar</a></button>
+                    <button onclick="entrar()"  ><a href="#">Entrar</a></button>
                 </div>
                 <br>  
             </div>
@@ -37,4 +37,28 @@
 
 </body>
 </html>   
-</html>   
+<script>
+    
+
+    
+    function entrar()
+    {
+    var  usuario =  document.getElementById("Usuario");
+    var  senha = document.getElementById("Senha");
+    var   input = document.getElementsByClassName("cotinue-button");
+    var    admin = "admin";
+    var    senhaAdmin= "admin";
+
+
+
+    if(usuario.value == admin && senha.value == senhaAdmin ) { 
+            alert("Logado");
+            window.location.href = "http://pt.stackoverflow.com"
+    }   
+ 
+    else {
+        alert("Usuário ou senha incorretos");
+    }
+    
+}
+</script> 
