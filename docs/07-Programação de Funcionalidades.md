@@ -26,7 +26,8 @@ A tela de cadastro apresentar campos que o usuário deve obrigatóriamente preen
 ![TelaCadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Tela%20Cadastro.png)
 
 **Requisitos atendidos** <br>
-* RF-006;
+* RF-006; <br>
+
 **Artefatos de Funcionalidade** <br>
 * cadastro.html;
 * style.css; <br>
