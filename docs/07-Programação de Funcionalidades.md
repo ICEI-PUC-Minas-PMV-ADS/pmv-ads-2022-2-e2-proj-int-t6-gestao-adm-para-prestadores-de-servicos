@@ -1,28 +1,70 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
-Implementação do sistema descrita por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos com os artefatos criados (código fonte), deverão apresentadas as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+A tela principal do sistema apresenta possibilidade de inscrição, fazer login na página ou se cadastrar
 
-Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos desenvolvidos.
+[!TelaInicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Index.png)
 
-|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
+**Requisitos Atendidos**
+RF-005
 
-# Instruções de acesso
 
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
+**Artefatos de Funcionalidade**
+index.html<br>
+style.css<br>
+**Instruções de Acesso**
 
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
+    1. Abra um navegador de internet e informe a seguinte URL:
+    2. A landing page será exibida pelo navegador.
 
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+
+A tela de cadastro apresentar campos que o usuário deve obrigatóriamente preencher para acessar a plataforma
+[!TelaCadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Tela%20Cadastro.png)
+
+**Requisitos atendidos**<br>
+RF-006<br>
+**Artefatos de Funcionalidade**<br>
+cadastro.html<br>
+style.css<br>
+
+**Instruções de Acesso**<br>
+
+    1. Abra um navegador de internet e informe a seguinte URL:
+    2. A landing page será exibida pelo navegador.
+
+
+A Tela de login é onde o usuário insere as informações que foram preenchidas no cadastro. Através dela se torna possivel o cliente acessar seus clientes cadastrados.<br>
+[!TelaLogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Login%20Usu%C3%A1rio.png) <br>
+
+**Requisitos atendidos**<br> 
+RF-005<br>
+
+**Artefatos de Funcionalidade**<br>
+entrar.html<br>
+style.css<br>
+
+**Instruções de Acesso**<br>
+    1. Abra um navegador de internet e informe a seguinte URL:
+    2. A landing page será exibida pelo navegador.
+<br>
+A cartela de clientes é pra onde o cliente é redireciondo após realizar o login. Através dela o cliente consegue cadastrar novos clientes em sua cartela e também editar clientes já cadastrados. Também será possivel, utilizar as funções de gerar contrato e orçamento para os clientes. <br>
+
+[!CartelaDeClientes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/3ab9f6b61f426b42e829cc887574d0570e58f37b/docs/img/Lista%20de%20Clientes.jpg) <br>
+
+**Requisitos Atendidos**<br>
+
+RF-002	
+RF-003	
+RF-004	
+RF-003
+
+cartelasdeclientes.html<br>
+style.css
+<br>
+**Instruções de Acesso** <br>
+
+    1. Abra um navegador de internet e informe a seguinte URL:
+    2. A landing page será exibida pelo navegador.
