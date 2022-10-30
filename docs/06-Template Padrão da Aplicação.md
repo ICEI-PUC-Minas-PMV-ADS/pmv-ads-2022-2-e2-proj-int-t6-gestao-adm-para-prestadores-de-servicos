@@ -16,13 +16,13 @@ Nesta tela possuímos os seguintes detalhes:
 
 **Tela para login** <br>
 Ao inserir as informações e  clicar no botão "Login", será aberto a tela principal do cliente:
-![TelaLogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
+![TelaLogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/c99dcb7f42c8f39f4d37a45bdf603617b1dd2c4d/docs/img/Login%20Usu%C3%A1rio.png)
 
 <br>
 
 **Tela Cadastro** <br>
 Ao clicar em "Cadastre-se" o cliente será redirecionado à seguinte página:
-![TelaCadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
+![TelaCadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/c99dcb7f42c8f39f4d37a45bdf603617b1dd2c4d/docs/img/Tela%20Cadastro.png)
 
 <br>
 
