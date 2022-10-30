@@ -7,7 +7,7 @@ A tela principal do sistema apresenta possibilidade de inscrição, fazer login 
 ![TelaInicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Index.png)
 
 **Requisitos Atendidos**
-RF-005
+RF-005; <br>
 
 
 **Artefatos de Funcionalidade**
