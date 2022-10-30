@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="pt-br"></html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>teladeloguin</title>
+    <link rel="stylesheet" href="style.css">
+<title>
+  <H2>Cartela de Clientes</H2>
+</title>
+  <style>
+      div.quadrado {
+        display: inline-block;
+        border: 2px;
+        border-radius: 10px;
+        background-size: 100px 100px;
+        background-color: blueviolet;
+        width: 500px;
+        height: 500px;
+      }
+
+      div#q1{
+        width: 900px;
+        height: 900px;
+        background-color: white;
+     
+      
+      }
+
+      div#q2{
+        text-align:center;
+        background-color: white;
+        width: 20%;
+        height: 20%;
+        
+      }
+
+  </style>
+</head>
+<body>
+  
+  <div class="quadrado" id="q1">
+  <h2>Cartelas de Clientes</h2>
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Pesquise o nome.." title="Type in a name">
+    <table id="myTable">
+      <tr class="header">
+        <th style="width:60%;">Nome</th>
+        <th style="width:40%;">Status</th>
+      </tr>
+
+      <tr>
+        <td>Aline Fernanda dos Santos</td>
+        <td>Contrato assinado</td>
+      </tr>
+
+      <tr>
+        <td>Carlos Alberto Ferreira</td>
+        <td>Orçamento</td>
+      </tr>
+
+      <tr>
+        <td>Felipe Lima de Jesus</td>
+        <td>Pagamento</td>
+      </tr>
+
+      <tr>
+        <td>Richard Gomes</td>
+        <td>Orçamento</td>
+      </tr>
+
+      <tr>
+        <td>Laura Moura</td>
+        <td>Contrato assinado</td>
+      </tr>
+
+      <tr>
+        <td>Thalita Gonçalves</td>
+        <td>Pagamento</td>
+      </tr>
+
+      <tr>
+        <td>Lucas Salomão </td>
+        <td>Contrato assinado</td>
+      </tr>
+    </table>
+
+  </div>
+  <div class="quadrado" id="q2">
+    <button><a href="#">Cadastrar novo cliente</a></button>
+    
+  </div>
+      <style>
+        * {
+          box-sizing: border-box;
+            }
+
+        #myInput {
+        background-image: url('/css/searchicon.png');
+        background-position: 10px 10px;
+        background-repeat: no-repeat;
+        width: 100%;
+        font-size: 16px;
+        padding: 12px 20px 12px 40px;
+        border: 1px solid #ddd;
+        margin-bottom: 12px;
+        }
+
+        #myTable {
+        border-collapse: collapse;
+        width: 100%;
+        border: 1px solid #ddd;
+        font-size: 18px;
+        }
+
+        #myTable th, #myTable td {
+        text-align: left;
+        padding: 12px;
+        }
+
+        #myTable tr {
+        border-bottom: 1px solid #ddd;
+        }
+
+        #myTable tr.header, #myTable tr:hover {
+        background-color: #f1f1f1;
+        }
+    </style>  
+  <script>
+    function myFunction() {
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("myInput");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("myTable");
+      tr = table.getElementsByTagName("tr");
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[0];
+        if (td) {
+          txtValue = td.textContent || td.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+          }  else {
+            tr[i].style.display = "none";
+            }
+        }       
+      }
+    }
+
+      
+
+
+       
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+        
+     
+        
+   
