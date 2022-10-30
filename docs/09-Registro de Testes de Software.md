@@ -7,14 +7,14 @@ O objetivo deste relatório é indicar se a aplicação AutoApp atende aos requi
 | 1 	| **CT-01 – Cadastrar perfil** 	|
 |:---:	|:---:	|
 |	Requisito	| RF-006 - O sistema deverá permitir a criação de um perfil de usuário para o responsável do veículo associado ao seu e-mail. |
-| Observação | Na página inicial, o site apresenta a funcionalidade de cadastro, este pode ser realizado ao clicar em "Registre-se" e o usuário é direcionado para uma tela para que possa escolher seu Perfil. Após, há o preenchimento de informações cadastrais (e-mail, nome, CPF, por exemplo). As telas estão prontas, com os botões com cliques mas os direcionamentos e vinculos com banco de dados ainda não . |
-| Tela |  <img src= width=20%/>|
+| Observação | Na página inicial, o site apresenta a funcionalidade de cadastro, este pode ser realizado ao clicar em "Registre-se" e o usuário é direcionado para uma tela para que possa escolher seu Perfil. Após, há o preenchimento de informações cadastrais (e-mail, nome, CPF, por exemplo). As telas estão prontas, com os botões com cliques mas os direcionamentos e vinculos com banco de dados ainda não. |
+| Tela |  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/e0b368f5ca2bde8018b05b41b74b292513c128f0/docs/img/Tela%20Cadastro.png" width=20%/>|
 
 | 2 	| **CT-02 – Efetuar login** 	|
 |:---:	|:---:	|
 |	Requisito	| RF-005 - O site deverá conter um sistema de Login e logout do Usuário. |
 | Observação | Na página inicial, o site apresenta a funcionalidade de login, este pode ser realizado ao clicar em "Entrar". O usuário é direcionado para uma tela para que possa acessar sua conta. Após, há o preenchimento de informações de login (e-mail, senha). |
-| Tela |  <img src= width=20%/>|
+| Tela |  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/e0b368f5ca2bde8018b05b41b74b292513c128f0/docs/img/Login%20Usu%C3%A1rio.png" width=20%/>|
 
 | 3 	|  **CT-03 – Cadastrar Cliente** 	|
 |:---:	|:---:	|
@@ -32,17 +32,17 @@ O objetivo deste relatório é indicar se a aplicação AutoApp atende aos requi
 |:---:	|:---:	|
 |	Requisito	| RF-007	O site deve permitir que o usuário remova e edite seus clientes. |
 | Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Clientes". O usuário é direcionado para uma tela para que possa acessar o cliente a ser removido. Após, o cliente receberá uma notificação para confirmação da remoção do cliente. |
-| Tela |  <img src= width=20%/>|
+| Tela |  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/c97f8ca41d5d589013ca011d59ad2120e80f725e/docs/img/Remover%20Clientes.jpg" width=20%/>|
 
 | 5 	|  **CT-06 – Gerar Contrato**	 	|
 |:---:	|:---:	|
 |	Requisito	| RF-001	O Site deve permitir gerar contratos para os clientes. |
-| Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Gerar novo contrato". O usuário é direcionado para uma tela para que possa escolher o cliente para que o contrato seja gerado. Após, há o preenchimento de informações a serem inseridas no contrato do cliente (nome completo, cpf, serviço a ser prestado, tempo de execução do serviço, orçamento etc). |
-| Tela |  <img src= width=20%/>|
+| Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Gerar novo contrato". O usuário é direcionado para uma tela para que possa escolher o cliente para que o contrato seja gerado. Após, há o preenchimento de informações a serem inseridas no contrato do cliente (nome completo, cpf, serviço a ser prestado, tempo de execução do serviço, orçamento etc) As telas estão prontas, com os botões com cliques mas os direcionamentos e vinculos com banco de dados ainda não. |
+| Tela |  <img src= width=20%/> OBS: **EM PROGRESSO** |
 
 | 5 	|  **CT-07 – Gerar orçamento** 		 	|
 |:---:	|:---:	|
 |	Requisito	| RF-008	O Site deve permitir gerar orçamento para os clientes. |
-| Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Gerar novo orçamento". O usuário é direcionado para uma tela para que possa acessar o cliente que deseja gerar o novo orçamento. Após, há o preenchimento de informações a serem inseridas no orçamento (materiais, locomoção, tempo de execução etc.). |
+| Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Gerar novo orçamento". O usuário é direcionado para uma tela para que possa acessar o cliente que deseja gerar o novo orçamento. Após, há o preenchimento de informações a serem inseridas no orçamento (materiais, locomoção, tempo de execução etc.). OBS: **EM PROGRESSO** |
 | Tela |  <img src= width=20%/>|
 
