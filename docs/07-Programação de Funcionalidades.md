@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.  <br> <br>
 **Página Inicial**  <br>
 A tela principal do sistema apresenta possibilidade de inscrição, fazer login na página ou se cadastrar
 
