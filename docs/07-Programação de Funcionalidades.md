@@ -12,7 +12,8 @@ A tela principal do sistema apresenta possibilidade de inscrição, fazer login 
 
 **Artefatos de Funcionalidade** <br> 
 * index.html;
-* style.css;
+* style.css; <br>
+
 **Instruções de Acesso** <br> 
 
     1. Abra um navegador de internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/Projeto/index.html
