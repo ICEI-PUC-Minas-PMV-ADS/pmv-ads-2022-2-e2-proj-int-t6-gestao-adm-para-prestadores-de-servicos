@@ -83,7 +83,7 @@ revisões necessárias, ele está agendado e pronto para a ação.
 esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
 ### Processo
-![PrintDoKanbanFlow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/162a1cd569bf1ebe663385e301d96a856047beed/IMG/PrintKanban.png)
+![PrintDoKanbanFlow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/6a2b575c2e82e6f5afe08b139abe3d601fdaf0e6/IMG/kanbanAtualizado1.png)
 
 https://kanbanflow.com/board/mxub4EY
  
