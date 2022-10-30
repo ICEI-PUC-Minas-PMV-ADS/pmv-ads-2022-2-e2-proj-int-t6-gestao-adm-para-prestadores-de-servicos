@@ -35,6 +35,7 @@ A tela de cadastro apresentar campos que o usuário deve obrigatóriamente preen
 
     1. Abra um navegador de internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/Projeto/cadastro.html
     2. A landing page será exibida pelo navegador.
+ <br>  <br>
 
 **Tela de Login** <br>
 A Tela de login é onde o usuário insere as informações que foram preenchidas no cadastro. Através dela se torna possivel o cliente acessar seus clientes cadastrados.<br><br>
