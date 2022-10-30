@@ -1,12 +1,24 @@
 # Template Padrão da Aplicação
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
-Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+**Tela Inicial**
+A tela inicial do site é apresentada com uma curta descrição do nosso objetivo e tem o seguinte layout:
+![TelaInicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
+|1- Layout: Nesta primeira página, decidimos utilizar um layout baseado em Single Page Applications(SPA), para que fique de manuseio mais fácil ao usuário.|
+|
+|2- Barra de Navegação: Barra  no topo do site, onde ao clicar no tópico desejado, o site irá encaminhar o usuário para o campo correspondente.|
+
+**Tela para login**
+![TelaLogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
+
+**Tela Cadastro**
+![TelaCadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
+
+
+**Cadastro de Clientes**
+![TelaCadatroClientes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
+
+
+**Agenda Interativa**
+![Agenda](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/8de52f5d685413d0dff7f55b5e402bf70fd647d2/docs/img/Agenda.png)
