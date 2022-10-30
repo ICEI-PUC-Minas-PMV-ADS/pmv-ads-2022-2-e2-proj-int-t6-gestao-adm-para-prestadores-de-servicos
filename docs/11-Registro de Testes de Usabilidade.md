@@ -8,19 +8,19 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 **CTU-01 – Cadastro de novo usuário**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Argemiro Eustáquio	| CTU-01 	| 5MIN | 20 | 3 | 3 | OK |
-| Maria Geraldina     | CTU-01 	| 3MIN | 25 | 1 | 2 | OK |
-| Philipe Júnior     	| CTU-01	| 2MIN | 15 | 0 | 0 | OK |
-| Patricia Souza     	| CTU-01 	| 2MIN | 13 | 0 | 0 | OK |
+| Argemiro Eustáquio	| CTU-01 	| --- | --- | --- | --- | EM PROGRESSO |
+| Maria Geraldina     | CTU-01 	| --- | --- | --- | --- | EM PROGRESSO |
+| Philipe Júnior     	| CTU-01	| --- | --- | --- | --- | EM PROGRESSO |
+| Patricia Souza     	| CTU-01 	| --- |---  | --- | --- | EM PROGRESSO |
 
 
 **CTU-02 – Login de usuário**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Argemiro Eustáquio	| CTU-02 	| 2MIN | 8 | 3 | 3 | OK |
-| Maria Geraldina     | CTU-02 	| 2MIN | 9 | 4 | 3 | OK |
-| Philipe Júnior	    | CTU-02	| 1MIN | 6 | 1 | 1 | OK |
-| Patricia Souza	    | CTU-02 	| 1MIN | 7 | 2 | 2 | OK |
+| Argemiro Eustáquio	| CTU-02 	| --- | --- | --- | --- | EM PROGRESSO |
+| Maria Geraldina     | CTU-02 	| --- | --- | --- | --- | EM PROGRESSO |
+| Philipe Júnior	    | CTU-02	| --- | --- | --- | --- | EM PROGRESSO |
+| Patricia Souza	    | CTU-02 	| --- | --- | --- | --- | EM PROGRESSO |
 
 
 **CTU-03 – Cadastrar clientes**
