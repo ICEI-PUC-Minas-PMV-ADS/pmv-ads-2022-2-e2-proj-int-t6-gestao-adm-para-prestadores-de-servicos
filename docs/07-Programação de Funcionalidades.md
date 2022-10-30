@@ -24,9 +24,9 @@ A tela principal do sistema apresenta possibilidade de inscrição, fazer login 
 A tela de cadastro apresentar campos que o usuário deve obrigatóriamente preencher para acessar a plataforma
 ![TelaCadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Tela%20Cadastro.png)
 
-**Requisitos atendidos**<br><
+**Requisitos atendidos** <br>
 * RF-006;
-**Artefatos de Funcionalidade**<br>
+**Artefatos de Funcionalidade** <br>
 * cadastro.html;
 * style.css;
 
@@ -39,10 +39,10 @@ A tela de cadastro apresentar campos que o usuário deve obrigatóriamente preen
 A Tela de login é onde o usuário insere as informações que foram preenchidas no cadastro. Através dela se torna possivel o cliente acessar seus clientes cadastrados.<br><br>
 ![TelaLogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Login%20Usu%C3%A1rio.png) <br>
 
-**Requisitos atendidos**<br> 
+**Requisitos atendidos** <br> 
 * RF-005;
 
-**Artefatos de Funcionalidade**<br>
+**Artefatos de Funcionalidade** <br>
 * entrar.html;
 * style.css;
 
@@ -66,7 +66,7 @@ A cartela de clientes é pra onde o cliente é redireciondo após realizar o log
 * RF-003; 
 
 **Artefatos de Funcionalidade**<br>
-*cartelasdeclientes.html;
+* cartelasdeclientes.html;
 * style.css;
 
 **Instruções de Acesso** <br>
