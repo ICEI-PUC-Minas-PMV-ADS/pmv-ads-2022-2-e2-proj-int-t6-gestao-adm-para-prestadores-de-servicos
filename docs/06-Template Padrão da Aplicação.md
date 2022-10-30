@@ -26,10 +26,7 @@ Ao clicar em "Cadastre-se" o cliente será redirecionado à seguinte página:
 <br>
 
 
-**Cadastro de Clientes**
-![TelaCadatroClientes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f6b7bf6caa9fcb7d2db5d44fe45b5e388930b97a/docs/img/Index.png)
-
-
+Ao se cadastrar e entrar em sua conta, o cliente será redirecionado para a página onde contém a sua agenda com serviços a serem prestados. Segue o modelo:
 **Agenda Interativa**
 ![Agenda](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/8de52f5d685413d0dff7f55b5e402bf70fd647d2/docs/img/Agenda.png)
 <br>
