@@ -20,7 +20,7 @@ O objetivo deste relatório é indicar se a aplicação AutoApp atende aos requi
 |:---:	|:---:	|
 |	Requisito	| RF-003 - O site deverá conter um sistema de Cadastro de Clientes com informações referente ao serviço prestado. |
 | Observação | Na area do usuário, o site apresenta a funcionalidade de cadastrar clientes, este pode ser realizado ao clicar em "Cadastrar novo cliente". O usuário é direcionado para uma tela para que possa cadastrar um novo cliente. Após, há o preenchimento de informações do cliente (nome completo, cpf, serviço a ser prestado etc.). |
-| Tela |  <img src= width=20%/>|
+| Tela |  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/df31097c97d0fc05fe67bd049df7e3a3eba1a283/docs/img/Cadastrar%20Cliente.jpg" width=20%/>|
 
 | 4 	|  **CT-04 – Editar Cliente** 	 	|
 |:---:	|:---:	|
