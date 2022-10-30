@@ -7,7 +7,7 @@ A tela principal do sistema apresenta possibilidade de inscrição, fazer login 
 ![TelaInicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Index.png) <br> <br>
 
 **Requisitos Atendidos** <br> 
-* RF-005; 
+* RF-005;  <br>
 
 
 **Artefatos de Funcionalidade** <br> 
@@ -42,7 +42,7 @@ A Tela de login é onde o usuário insere as informações que foram preenchidas
 ![TelaLogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Login%20Usu%C3%A1rio.png) <br>
 
 **Requisitos atendidos** <br> 
-* RF-005;
+* RF-005;  <br>
 
 **Artefatos de Funcionalidade** <br>
 * entrar.html;
@@ -67,7 +67,7 @@ A cartela de clientes é pra onde o cliente é redireciondo após realizar o log
 * RF-002;	
 * RF-003;	
 * RF-004;	
-* RF-003; 
+* RF-003;  <br>
 
 **Artefatos de Funcionalidade**<br>
 * cartelasdeclientes.html;
