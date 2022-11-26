@@ -16,6 +16,7 @@ O projeto que está sendo desenvolvido consiste em um site focado em prestadores
 * Marco Túlio Félix Santiago
 * Bianca Campos Xavier
 * Ana Carolina do Carmo Vaz
+* Rafael Dias Rubio
 
 ## Orientador
 
