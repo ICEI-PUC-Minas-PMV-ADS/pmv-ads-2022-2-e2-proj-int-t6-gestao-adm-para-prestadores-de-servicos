@@ -2,9 +2,9 @@
 
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.  <br> <br>
 **Página Inicial**  <br>
-A tela principal do sistema apresenta possibilidade de inscrição, fazer login na página ou se cadastrar
+A tela principal do sistema apresenta a introdução da proposta da Empeasy e o campo de login
 
-![TelaInicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f1207d31195506e97b3d2ed47b374810bd42ecb3/docs/img/Index.png) <br> <br>
+![TelaInicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/cb9146f5b571e419c4939f8f9aff8825d80d7356/IMG/novowireframe1.png) <br> <br>
 
 **Requisitos Atendidos** <br> 
 * RF-005;  <br>
