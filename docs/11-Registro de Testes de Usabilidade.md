@@ -4,23 +4,22 @@ A análise do resultado do teste de usabilidade à distância deve ser igual ao 
 
 Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entregues não estão com todas as funcionalidades funcionando.
 
-
 **CTU-01 – Cadastro de novo usuário**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Argemiro Eustáquio	| CTU-01 	| --- | --- | --- | --- | EM PROGRESSO |
-| Maria Geraldina     | CTU-01 	| --- | --- | --- | --- | EM PROGRESSO |
-| Philipe Júnior     	| CTU-01	| --- | --- | --- | --- | EM PROGRESSO |
-| Patricia Souza     	| CTU-01 	| --- |---  | --- | --- | EM PROGRESSO |
+| Argemiro Eustáquio	| CTU-01 	| 3MIN | 10 | 3 | 2 | OK |
+| Maria Geraldina     | CTU-01 	| 3MIN | 12 | 3 | 3 | OK |
+| Philipe Júnior     	| CTU-01	| 2MIN | 11 | 0 | 0 | OK |
+| Patricia Souza     	| CTU-01 	| 2MIN | 9  | 1 | 1 | OK |
 
 
 **CTU-02 – Login de usuário**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Argemiro Eustáquio	| CTU-02 	| --- | --- | --- | --- | EM PROGRESSO |
-| Maria Geraldina     | CTU-02 	| --- | --- | --- | --- | EM PROGRESSO |
-| Philipe Júnior	    | CTU-02	| --- | --- | --- | --- | EM PROGRESSO |
-| Patricia Souza	    | CTU-02 	| --- | --- | --- | --- | EM PROGRESSO |
+| Argemiro Eustáquio	| CTU-02 	| 2MIN | 11 | 2 | 2 | OK |
+| Maria Geraldina     | CTU-02 	| 3MIN | 12 | 1 | 1 | OK |
+| Philipe Júnior	    | CTU-02	| 1MIN | 6 | 0  | 0 | OK |
+| Patricia Souza	    | CTU-02 	| 1MIN | 6 | 0  | 0 | OK |
 
 
 **CTU-03 – Cadastrar clientes**
@@ -67,5 +66,7 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Maria Geraldina     | CTU-07 	| --- | --- | --- | --- | EM PROGRESSO |
 | Philipe Júnior    	| CTU-07	| --- | --- | --- | --- | EM PROGRESSO |
 | Patricia Souza    	| CTU-07 	| --- | --- | --- | --- | EM PROGRESSO |
+
+Também foi adicionado mensagens de validação, de erro, obrigatoriedade de informações e sucesso de registro dos dados para melhoras a experiencia do usuário e facilitar o uso do site! 
 
 
