@@ -16,7 +16,7 @@ A tela principal do sistema apresenta a introdução da proposta da Empeasy e o 
 
 **Instruções de Acesso** <br> 
 
-    1. Abra um navegador de internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/Projeto/index.html
+    1. Abra um navegador de internet e informe a seguinte URL:[http://jeffhost-001-site1.itempurl.com/]
     2. A landing page será exibida pelo navegador.
 
 <br> <br>
@@ -40,5 +40,7 @@ A cartela de clientes é pra onde o cliente é redireciondo após realizar o log
 
 **Instruções de Acesso** <br>
 
-    1. Abra um navegador de internet e informe a seguinte URL:https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/Projeto/cartelasdeclientes.html
-    2. A landing page será exibida pelo navegador.
+    1. Abra um navegador de internet e informe a seguinte URL:http://jeffhost-001-site1.itempurl.com/
+    2. Faça o login com os seguintes dados: Login:tester1  Senha:tester 
+    3. Clique na aba de clientes que está localizada na barra de navegação.
+    4. A pagina da lista de clientes será exibida pelo navegador.
