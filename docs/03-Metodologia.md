@@ -84,6 +84,8 @@ esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
 ### Processo
 ![PrintDoKanbanFlow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/f31179ca3276cca95b1f5060c1440c3645d30d7a/IMG/ETAPA%204%20-%20PROJETO%20PUC%20-%20KanbanFlow_page-0001.jpg)
+
+- https://kanbanflow.com/board/79KUYLd
  
 
 ### Ferramentas
