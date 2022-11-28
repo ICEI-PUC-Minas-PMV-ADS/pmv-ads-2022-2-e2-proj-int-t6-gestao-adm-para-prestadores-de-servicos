@@ -83,8 +83,9 @@ revisões necessárias, ele está agendado e pronto para a ação.
 esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
 ### Processo
-![PrintDoKanbanFlow] ([[https://[github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/6a2b575c2e82e6f5afe08b139abe3d601fdaf0e6/IMG/kanbanAtualizado1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/main/docs/img/ETAPA%204%20-%20PROJETO%20PUC%20-%20KanbanFlow_page-0001.jpg)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/main/docs/img/ETAPA%204%20-%20PROJETO%20PUC%20-%20KanbanFlow_page-0001.jpg)
-https://kanbanflow.com/board/mxub4EY](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/main/docs/img/ETAPA%204%20-%20PROJETO%20PUC%20-%20KanbanFlow_page-0001.jpg)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/162b94b47ff4fdeb06796cf908d5ab57ac5010fe/docs/img/ETAPA%204%20-%20PROJETO%20PUC%20-%20KanbanFlow_page-0001.jpg)
+![PrintDoKanbanFlow] (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/main/docs/img/ETAPA%204%20-%20PROJETO%20PUC%20-%20KanbanFlow_page-0001.jpg)
+ 
+
  
 
 ### Ferramentas
