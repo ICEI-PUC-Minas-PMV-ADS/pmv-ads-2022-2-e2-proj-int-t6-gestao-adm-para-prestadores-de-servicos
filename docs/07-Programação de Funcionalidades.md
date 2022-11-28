@@ -16,7 +16,7 @@ A tela principal do sistema apresenta a introdução da proposta da Empeasy e o 
 
 **Instruções de Acesso** <br> 
 
-    1. Abra um navegador de internet e informe a seguinte URL:[http://jeffhost-001-site1.itempurl.com/]
+    1. Abra um navegador de internet e informe a seguinte URL:(http://jeffhost-001-site1.itempurl.com/)
     2. A landing page será exibida pelo navegador.
 
 <br> <br>
