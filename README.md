@@ -24,13 +24,13 @@ O projeto que está sendo desenvolvido consiste em um site focado em prestadores
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Entre no site para fazer uso da aplicação através do link: http://jeffhost-001-site1.itempurl.com/
+Na pagina você poderá fazer o login para registrar os dados dos seus clientes através de um cadastro realizado por um perfil Administrador
 
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
+Login de usuário padrão para teste da aplicação: (usuário - testernew / senha - testernew).
+Login de usuário Administrador para teste da aplicação: (usuário - tester1 / senha - tester).
 
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
 
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
 
 # Documentação
 
