@@ -1,8 +1,12 @@
 # Instruções de utilização
 
-## Instalação do Site
+**Instruções de Acesso** <br>
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+    1. Abra um navegador de internet e informe a seguinte URL:http://jeffhost-001-site1.itempurl.com/
+    2. Faça o login com os seguintes dados: Login:tester1  Senha:tester 
+    3. Clique na aba de clientes que está localizada na barra de navegação.
+    4. A pagina da lista de clientes será exibida pelo navegador..
+    5. [Sistema/ControleDeContatos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/tree/main/Sistema/ControleDeContatos)
 
 ## Histórico de versões
 
