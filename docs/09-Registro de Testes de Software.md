@@ -38,5 +38,5 @@ O objetivo deste relatório é indicar se a aplicação AutoApp atende aos requi
 |:---:	|:---:	|
 |	Requisito	| RF-004 O site deverá conter um sistema de aba para pesquisa de clientes. |
 | Observação | O usuário irá acessar a tela de Clientes e nela conseguirá filtrar em "PESQUISAR" para conseguir visualizar um cliente especifico desejado, logo o cliente pesquisado será apresentado na tela. |
-| Tela |  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/812865b2694c1100772064278313296836e43b4c/IMG/Teste%20de%20PESQUISAR%20CLIENTES_page-0001.jpg
+| Tela |  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/2ffdc7ee063a0be0dcc924e9b4f265330cafbb5e/docs/img/Teste%20de%20PESQUISAR%20CLIENTES_page-0001.jpg
 
