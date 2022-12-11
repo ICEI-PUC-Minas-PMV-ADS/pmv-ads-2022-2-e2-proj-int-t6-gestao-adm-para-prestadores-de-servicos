@@ -48,6 +48,14 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Philipe Júnior	    | CTU-05	| 2MIN | 10 | 0 | 0 | OK |
 | Patricia Souza	    | CTU-05 	| 2MIN | 10 | 0 | 0 | OK |
 
+**CTU-06 – Pesquisar clientes**
+| **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
+| --- 	| --- 	| --- | ---  | --- | --- | --- |
+| Argemiro Eustáquio	| CTU-06 	| 3MIN | 8 | 0 | 0 | OK |
+| Maria Geraldina     | CTU-06 	| 5MIN | 10| 0 | 0 | OK |
+| Philipe Júnior	    | CTU-06	| 4MIN | 6 | 0 | 0 | OK |
+| Patricia Souza	    | CTU-06 	| 2MIN | 7 | 0 | 0 | OK |
+
 
 Também foi adicionado mensagens de validação, de erro, obrigatoriedade de informações e sucesso de registro dos dados para melhoras a experiencia do usuário e facilitar o uso do site! 
 
