@@ -2,7 +2,7 @@
 
 **Instruções de Acesso** <br>
 
-    1. Abra um navegador de internet e informe a seguinte URL:http://jeffhost-001-site1.itempurl.com/
+    1. Abra um navegador de internet e informe a seguinte URL:(http://jeffhost-001-site1.itempurl.com/](http://jeffhost-001-site1.itempurl.com/)
     2. Faça o login com os seguintes dados: Login:tester1  Senha:tester 
     3. Clique na aba de clientes que está localizada na barra de navegação.
     4. A pagina da lista de clientes será exibida pelo navegador..
