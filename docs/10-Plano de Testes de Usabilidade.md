@@ -38,5 +38,10 @@ Já no teste heurístico, nos basearemos nas 10 heurísticas de Nielsen (NIELSEN
 | **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
 | **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar o cliente à ser removido;<br>3. Clicar em salvar as alterações.   | 
 |   |   |
+| **Caso de Teste** 	| **CTU-06 – Pesquisar Clientes** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar a função de pesquisar clientes	|
+| **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.filtrar o cliente desejado na aba de pesquisa.   | 
+|   |   |
 
 
