@@ -49,24 +49,6 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Patricia Souza	    | CTU-05 	| 2MIN | 10 | 0 | 0 | OK |
 
 
-
-**CTU-06 – Gerar Orçamento**
-| **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
-| --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Argemiro Eustáquio	| CTU-06 	| --- | --- | --- | --- | EM PROGRESSO |
-| Maria Geraldina     | CTU-06 	| --- | --- | --- | --- | EM PROGRESSO |
-| Philipe Júnior	    | CTU-06	| --- | --- | --- | --- | EM PROGRESSO |
-| Patricia Souza	    | CTU-06 	| --- | --- | --- | --- | EM PROGRESSO |
-
-
-**CTU-07 – Gerar contrato**
-| **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
-| --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Argemiro Eustáquio	| CTU-07	| --- | --- | --- | --- | EM PROGRESSO |
-| Maria Geraldina     | CTU-07 	| --- | --- | --- | --- | EM PROGRESSO |
-| Philipe Júnior    	| CTU-07	| --- | --- | --- | --- | EM PROGRESSO |
-| Patricia Souza    	| CTU-07 	| --- | --- | --- | --- | EM PROGRESSO |
-
 Também foi adicionado mensagens de validação, de erro, obrigatoriedade de informações e sucesso de registro dos dados para melhoras a experiencia do usuário e facilitar o uso do site! 
 
 
