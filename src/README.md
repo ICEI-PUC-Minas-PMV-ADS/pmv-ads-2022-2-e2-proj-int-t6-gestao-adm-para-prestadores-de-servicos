@@ -6,7 +6,7 @@
     2. Faça o login com os seguintes dados: Login:tester1  Senha:tester 
     3. Clique na aba de clientes que está localizada na barra de navegação.
     4. A pagina da lista de clientes será exibida pelo navegador..
-    5. [Sistema/ControleDeContatos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/tree/main/Sistema/ControleDeContatos)
+    5. <li><a href="Sistema/ControleDeContatos">Sistema/ControleDeContatos</a></li>
 
 ## Histórico de versões
 
