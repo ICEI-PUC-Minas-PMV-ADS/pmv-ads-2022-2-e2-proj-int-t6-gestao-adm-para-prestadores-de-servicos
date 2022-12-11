@@ -41,6 +41,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| O site deverá fornecer um formulário de cadastro para novos usuários.                                    | Alta      |
 |RF-007| O site deve permitir que o usuário remova e edite seus clientes.                                         | Alta      |
 |RF-008| O Site deve permitir gerar orçamento para os clientes.                                                   | Média     | 
+|RF-009| O Site deve apresentar avisos de erro quando detectado.                                                  | Média     | 
+|RF-010| O Site deve apresentar avisos de confirmação quando concluir uma alteração.                              | Alta      | 
 
 
 ### Requisitos não Funcionais
