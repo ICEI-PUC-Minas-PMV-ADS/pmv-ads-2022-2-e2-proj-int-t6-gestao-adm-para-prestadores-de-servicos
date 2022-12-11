@@ -6,7 +6,8 @@
     2. Faça o login com os seguintes dados: Login:tester1  Senha:tester 
     3. Clique na aba de clientes que está localizada na barra de navegação.
     4. A pagina da lista de clientes será exibida pelo navegador..
-    5. Sistema/ControleDeContatos
+
+<li><a href="Sistema/ControleDeContatos">Sistema</a></li>
 
 ## Histórico de versões
 
