@@ -2,8 +2,6 @@
 
 
 > **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
 > - [Documentação .NET](https://learn.microsoft.com/pt-br/dotnet/)
 > - [Documentação ASP.NET](https://learn.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-7.0)
 > - [Figma](https://www.designerd.com.br/tutorial-como-usar-o-figma/)
