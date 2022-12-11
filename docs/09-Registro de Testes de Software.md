@@ -34,5 +34,9 @@ O objetivo deste relatório é indicar se a aplicação AutoApp atende aos requi
 | Observação | Na area do usuário, o site apresenta a funcionalidade de acessar seus clientes, este pode ser realizado ao clicar em "Clientes". O usuário é direcionado para uma tela para que possa acessar o cliente a ser removido. Após, o cliente receberá uma notificação para confirmação da remoção do cliente. |
 | Tela |  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/c97f8ca41d5d589013ca011d59ad2120e80f725e/docs/img/Remover%20Clientes.jpg" width=20%/>|
 
-
+| 6 	|  **CT-06 – Pesquisar Clientes**	 	|
+|:---:	|:---:	|
+|	Requisito	| RF-004 O site deverá conter um sistema de aba para pesquisa de clientes. |
+| Observação | O usuário irá acessar a tela de Clientes e nela conseguirá filtrar em "PESQUISAR" para conseguir visualizar um cliente especifico desejado, logo o cliente pesquisado será apresentado na tela. |
+| Tela |  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-gestao-adm-para-prestadores-de-servicos/blob/812865b2694c1100772064278313296836e43b4c/IMG/Teste%20de%20PESQUISAR%20CLIENTES_page-0001.jpg
 
