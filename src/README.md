@@ -7,7 +7,7 @@
     3. Clique na aba de clientes que está localizada na barra de navegação.
     4. A pagina da lista de clientes será exibida pelo navegador..
 
-<li><a href="Sistema/ControleDeContatos">Sistema</a></li>
+<li><a href="main/Sistema/ControleDeContatos">Sistema</a></li>
 
 ## Histórico de versões
 
