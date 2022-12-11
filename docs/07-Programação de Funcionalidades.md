@@ -14,12 +14,7 @@ A tela principal do sistema apresenta a introdução da proposta da Empeasy e o 
 * index.html;
 * style.css; <br>
 
-**Instruções de Acesso** <br> 
-
-    1. Abra um navegador de internet e informe a seguinte URL: http://jeffhost-001-site1.itempurl.com/
-    2. A landing page será exibida pelo navegador.
-
-<br> <br>
+<br>
 
 
 **Cartela de Clientes**  <br>
@@ -38,9 +33,4 @@ A cartela de clientes é pra onde o cliente é redireciondo após realizar o log
 * cartelasdeclientes.html;
 * style.css; <br>
 
-**Instruções de Acesso** <br>
 
-    1. Abra um navegador de internet e informe a seguinte URL:http://jeffhost-001-site1.itempurl.com/
-    2. Faça o login com os seguintes dados: Login:tester1  Senha:tester 
-    3. Clique na aba de clientes que está localizada na barra de navegação.
-    4. A pagina da lista de clientes será exibida pelo navegador.
