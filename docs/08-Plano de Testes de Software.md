@@ -34,16 +34,4 @@
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site - Realizar o Login - Clicar em "Cadastrar novo cliente" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, endereço) <br> - Clicar em "Cadastrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso.  |
 
-| **Caso de Teste** 	| **CT-06 – Gerar Contrato** 	|
-|:---:	|:---:	|
-|	Requisito Associado 	| RF-001	O Site deve permitir gerar contratos para os clientes. |
-| Objetivo do Teste 	| Verificar se o usuário consegue cadastrar os clientes na aplicação. |
-| Passos 	| - Acessar o navegador; <br> Informar o endereço do site; <br> Realizar o Login; <br> Entrar na Aba "Clientes"; <br> Selecionar um cliente; <br> Clicar em Gerar Contrato <br> Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, endereço, valor do serviço prestado, tempo de execução do serviço, especificação do trabalho que será realizado) <br> - Clicar em "Gerar contrato" |
-|Critério de Êxito | - O contrato foi gerado com sucesso.  |
 
-| **Caso de Teste** 	| **CT-07 – Gerar orçamento** 	|
-|:---:	|:---:	|
-|	Requisito Associado 	|RF-008	O Site deve permitir gerar orçamento para os clientes. |
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar os clientes na aplicação. |
-| Passos 	| - Acessar o navegador; <br> Informar o endereço do site; <br> Realizar o Login; <br> Entrar na Aba "Clientes" <br> Selecionar um cliente <br> Clicar em Gerar orçamento <br> Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, endereço, valor do serviço prestado, tempo de execução do serviço, especificação do trabalho que será realizado); <br> - Clicar em "Gerar orçamento". |
-|Critério de Êxito | - O orçamento foi gerado com sucesso.  |
