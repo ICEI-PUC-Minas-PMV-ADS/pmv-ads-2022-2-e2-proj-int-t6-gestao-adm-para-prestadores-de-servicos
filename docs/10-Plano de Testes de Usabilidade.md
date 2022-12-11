@@ -38,25 +38,5 @@ Já no teste heurístico, nos basearemos nas 10 heurísticas de Nielsen (NIELSEN
 | **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
 | **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar o cliente à ser removido;<br>3. Clicar em salvar as alterações.   | 
 |   |   |
-| **Caso de Teste** 	| **CTU-06 – Gerar Orçamento** 	|
-| **Perfil** 	| Usuário 	|
-| **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
-| **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar a opção de gerar orçamento;<br>3. Preencher o formulário conforme solicitado;<br>4.Clicar em gerar o contrato para o cliente solicitado.   | 
-|   |   |
-| **Caso de Teste** 	| **CTU-07 – Gerar contrato** 	|
-| **Perfil** 	| Usuário 	|
-| **Objetivo do Teste** 	| Avaliar a função de editar clientes	|
-| **Ações necessárias** 	| 1. Abrir o site;<br>2. Realizar o login;<br>3. Abrir a aba de clientes;<br>4.Navegar pela lista criada de clientes; selecionar a opção de gerar contratos;<br>3. preencher as informações necessárias;<br>4.Clicar em gerar o contrato para o cliente desejado.   | 
-|   |   |
 
-## Análise do teste e resultados
 
-A análise do resultado do teste de usabilidade à distância deve ser igual ao de um teste presencial, para registro será utilizada uma planilha conforme exemplo abaixo:
-
-| **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
-| --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 1	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 2 | --- 	| --- | ---  | --- | --- | --- |
-| Usuário 3	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 4	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 5	| --- 	| --- | ---  | --- | --- | --- |
