@@ -36,7 +36,7 @@
 
 | **Caso de Teste** 	| **CT-06 – Pesquisar Clientes** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	| RF-007	O site deve permitir que o usuário remova e edite seus clientes. |
+|	Requisito Associado 	| RF-004	O site deve permitir que o usuário remova e edite seus clientes. |
 | Objetivo do Teste 	| Verificar o cliente especifico com base na pesquisa solicitada. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site - Realizar o Login - Clicar em "Clientes" <br> - Preencher o campo "PESQUISAR" com o nome ou dados do cliente desejado <br> - Clicar em "ENTER" |
 |Critério de Êxito | - Será apresentado o cliente com base na busca feita pelo usuário.  |
