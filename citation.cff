@@ -1,29 +1,25 @@
 message: Please cite this software using these metadata.
-title:
+title: EMPEASY
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
+  - family-names: Rodrigues Lacerda
+    given-names: Jefferson
+  - family-names: Gonçalves Teles
+    given-names: Leonardo
+  - family-names: Félix Santiago
+    given-names: Marco Túlio
+  - family-names: Campos Xavier
+    given-names: Bianca
+  - family-names: Carolina do Carmo Vaz
+    given-names: Ana
+  - family-names: Dias Rubio
+    given-names: Rafael
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Jeunon de Alencar
+    given-names: Bernardo
 keywords:
-  - 
-  - 
+  - Gestão 
+  - Prestadores de Serviços
 repository-code: 
 version: 1.0.0
-date-released: 2023-10-31
+date-released: 2022-08-01
